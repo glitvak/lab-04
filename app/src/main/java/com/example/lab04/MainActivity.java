@@ -15,14 +15,6 @@ public class MainActivity extends AppCompatActivity {
     private final LinkedList<String> priceList = new LinkedList<>();
     private final LinkedList<String> infoList = new LinkedList<>();
 
-    /*
-    ImageView image = findViewById(R.id.image);
-        Glide.with(this)
-                .asBitmap()
-                .load(imageUrl)
-                .into(image);
-     */
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

@@ -42,7 +42,6 @@ public class ListAdapter extends RecyclerView.Adapter<ListAdapter.ViewHolder> {
 
     @Override
     public void onBindViewHolder(@NonNull ViewHolder holder, final int position) {
-        //String mCurrent = this.name.get(position);
         holder.name.setText(this.name.get(position));
 
         holder.parentLayout.setOnClickListener(new View.OnClickListener() {
