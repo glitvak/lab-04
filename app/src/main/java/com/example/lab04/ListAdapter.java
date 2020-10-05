@@ -14,6 +14,8 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import java.util.LinkedList;
 
+import static android.content.Intent.FLAG_ACTIVITY_SINGLE_TOP;
+
 public class ListAdapter extends RecyclerView.Adapter<ListAdapter.ViewHolder> {
     @NonNull
     private LinkedList<String> name = new LinkedList<>();
