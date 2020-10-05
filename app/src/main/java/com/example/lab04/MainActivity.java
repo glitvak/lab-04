@@ -68,25 +68,25 @@ public class MainActivity extends AppCompatActivity {
         priceList.add("$5.00");
         infoList.add("Ground beef, minced beef or beef mince is beef that has been finely chopped with a knife or a meat grinder or mincing machine.");
 
-        wordList.add("Ground Beef");
-        imgList.add("beef");
-        priceList.add("$5.00");
-        infoList.add("Ground beef, minced beef or beef mince is beef that has been finely chopped with a knife or a meat grinder or mincing machine.");
+        wordList.add("Bananas");
+        imgList.add("banana");
+        priceList.add("$1.50");
+        infoList.add("A banana is an elongated, edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa.");
 
-        wordList.add("Ground Beef");
-        imgList.add("beef");
-        priceList.add("$5.00");
-        infoList.add("Ground beef, minced beef or beef mince is beef that has been finely chopped with a knife or a meat grinder or mincing machine.");
+        wordList.add("Apples");
+        imgList.add("apple");
+        priceList.add("$2.00");
+        infoList.add("An apple is an edible fruit produced by an apple tree.");
 
-        wordList.add("Ground Beef");
-        imgList.add("beef");
-        priceList.add("$5.00");
-        infoList.add("Ground beef, minced beef or beef mince is beef that has been finely chopped with a knife or a meat grinder or mincing machine.");
+        wordList.add("Onions");
+        imgList.add("onion");
+        priceList.add("$1.50");
+        infoList.add("The onion, also known as the bulb onion or common onion, is a vegetable that is the most widely cultivated species of the genus Allium.");
 
-        wordList.add("Ground Beef");
-        imgList.add("beef");
-        priceList.add("$5.00");
-        infoList.add("Ground beef, minced beef or beef mince is beef that has been finely chopped with a knife or a meat grinder or mincing machine.");
+        wordList.add("Potatoes");
+        imgList.add("potato");
+        priceList.add("$3.20");
+        infoList.add("The potato is a root vegetable native to the Americas, a starchy tuber of the plant Solanum tuberosum.");
 
         initRecyclerView();
     }
